@@ -3,6 +3,8 @@
 # Smart Rates
 A mobile and web-application that analyzes the market value of a car using the Smart Car API.
 
+Devpost Link: https://devpost.com/software/safe-sound-hruj1p
+
 # Developers
 - Pravat Bhusal (Full-Stack Developer and API Solutions)
 - Michael Kasman (Full-Stack Developer and Graphics Designer)
